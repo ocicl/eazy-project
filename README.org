@@ -1,0 +1,10 @@
+* eazy-project
+
+Boost your development!
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/eazy-project.git   |
+| commit  | 518c8b6  |
+| systems | eazy-project |
+|---------+-------------------------------------------|
+
